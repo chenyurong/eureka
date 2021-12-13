@@ -1,7 +1,15 @@
 Eureka
 =====
 
-# 个人博客
+## 源码编译
+
+如果出现如下错误，可参考博客：[The project uses Gradle 2.12 which is incompatible with IDEA running on Java 10 or newer - Stack Overflow](https://stackoverflow.com/questions/58447285/the-project-uses-gradle-2-12-which-is-incompatible-with-idea-running-on-java-10)
+
+```
+The project uses Gradle 2.12 which is incompatible with IDEA running on Java 10 or newer.
+```
+
+## 个人博客
 
 [http://www.iocoder.cn](http://www.iocoder.cn/?github)
 
